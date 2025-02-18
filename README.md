@@ -2,6 +2,11 @@
 
 This Streamlit application provides an interactive dashboard for analyzing student performance across various subjects.
 
+## 🌐 Demo
+You can test the dashboard here:  
+🔗 **[AUPP Search Dashboard](https://auppsearchdashboard.streamlit.app/)** 
+
+
 ## Features
 - 📊 **Visual Insights**: Histogram and trend charts for student scores.
 - 🔍 **Filters**: Select subjects and gender to refine the displayed data.
